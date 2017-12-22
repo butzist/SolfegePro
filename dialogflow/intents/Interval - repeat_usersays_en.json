@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5743233f-6465-4057-bfd8-9065adca047b",
+    "data": [
+      {
+        "text": "Repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513869219
+  },
+  {
+    "id": "eba9e5a7-4557-4e73-9c24-94155a5579ee",
+    "data": [
+      {
+        "text": "Once again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513869219
+  },
+  {
+    "id": "c9cc23ed-a507-4de1-97ae-c7ec29ec36dd",
+    "data": [
+      {
+        "text": "Play again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513869219
+  },
+  {
+    "id": "7852c65b-cb8c-4648-84d5-404c322d3e75",
+    "data": [
+      {
+        "text": "Please repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513869219
+  }
+]

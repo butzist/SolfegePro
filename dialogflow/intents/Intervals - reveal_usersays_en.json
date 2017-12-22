@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17db12ec-0e61-47d5-9034-f7a785b80fbf",
+    "data": [
+      {
+        "text": "What interval was this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513954804
+  },
+  {
+    "id": "6d0c2c43-81fd-47cf-aeef-dcba62dc2345",
+    "data": [
+      {
+        "text": "Please reveal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513954804
+  },
+  {
+    "id": "04f0c8ca-5176-4692-9d8d-450420d9dfac",
+    "data": [
+      {
+        "text": "Tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513954804
+  },
+  {
+    "id": "67cc205d-5339-44d4-9881-d6e8a83a823c",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513954804
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "a9ff0712-7e10-4e4d-90f7-9f19a57e136e",
+  "name": "Intervals - reveal",
+  "auto": true,
+  "contexts": [
+    "intervals"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intervals.reveal",
+      "affectedContexts": [
+        {
+          "name": "intervals",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1513954804,
+  "fallbackIntent": false,
+  "events": []
+}

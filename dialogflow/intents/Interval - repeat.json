@@ -1,0 +1,31 @@
+{
+  "id": "d85cc63a-e207-42ae-9f65-41438f8e5042",
+  "name": "Interval - repeat",
+  "auto": true,
+  "contexts": [
+    "intervals"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intervals.repeat",
+      "affectedContexts": [
+        {
+          "name": "intervals",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1513869219,
+  "fallbackIntent": false,
+  "events": []
+}

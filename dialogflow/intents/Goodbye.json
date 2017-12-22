@@ -1,0 +1,33 @@
+{
+  "id": "7f1d12c1-e06c-4c8c-85f4-be4bd93e8a97",
+  "name": "Goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Have a good day",
+            "Cheers",
+            "Hope you liked it",
+            "Bye, please check out the project on Github"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513960030,
+  "fallbackIntent": false,
+  "events": []
+}

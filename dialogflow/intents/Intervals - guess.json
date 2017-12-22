@@ -1,0 +1,54 @@
+{
+  "id": "8935d816-a2a5-4693-8703-9e15167b9466",
+  "name": "Intervals - guess",
+  "auto": true,
+  "contexts": [
+    "intervals"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intervals.guess",
+      "affectedContexts": [
+        {
+          "name": "intervals",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5c0f671b-0ea3-4015-84cf-5eef2f9ae724",
+          "required": true,
+          "dataType": "@Interval",
+          "name": "guessed",
+          "value": "$guessed",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I did not understand - please repeat"
+            },
+            {
+              "lang": "en",
+              "value": "Please say an interval"
+            },
+            {
+              "lang": "en",
+              "value": "Guess an interval"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1513868737,
+  "fallbackIntent": false,
+  "events": []
+}

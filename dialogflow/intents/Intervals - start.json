@@ -1,0 +1,31 @@
+{
+  "id": "b2214aeb-04fb-482b-8f5c-90dfc4d7bc53",
+  "name": "Intervals - start",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intervals",
+      "affectedContexts": [
+        {
+          "name": "intervals",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1513868480,
+  "fallbackIntent": false,
+  "events": []
+}

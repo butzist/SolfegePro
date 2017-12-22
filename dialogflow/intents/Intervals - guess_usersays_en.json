@@ -1,0 +1,83 @@
+[
+  {
+    "id": "32779419-e2e5-42f1-9821-1dbe1be5ea89",
+    "data": [
+      {
+        "text": "Could be an ",
+        "userDefined": false
+      },
+      {
+        "text": "octave",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6391eaa8-2adf-48d2-810a-31f60f3049e3",
+    "data": [
+      {
+        "text": "Maybe a ",
+        "userDefined": false
+      },
+      {
+        "text": "fifth",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d096588-005b-4de9-b504-f259424e902e",
+    "data": [
+      {
+        "text": "I guess that is a ",
+        "userDefined": false
+      },
+      {
+        "text": "quint",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24324c4b-397c-459f-b093-f78121c6af4d",
+    "data": [
+      {
+        "text": "That was a ",
+        "userDefined": false
+      },
+      {
+        "text": "tritone",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8787f8ed-ff30-4670-9b4d-a9d3bae972a7",
+    "data": [
+      {
+        "text": "major six",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

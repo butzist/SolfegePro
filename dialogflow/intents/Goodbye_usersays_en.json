@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d6cf7a39-a685-4c11-9e41-25cfc77ade84",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513960030
+  },
+  {
+    "id": "8af324d9-83d4-43c8-bc1a-ba099ff6788f",
+    "data": [
+      {
+        "text": "Goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513960030
+  },
+  {
+    "id": "52b7b826-7f5c-40ed-9862-f01f001bbd0d",
+    "data": [
+      {
+        "text": "Cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513960030
+  },
+  {
+    "id": "264b7be9-9fdd-4b26-a2dc-de4b8619f763",
+    "data": [
+      {
+        "text": "Exit app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513960030
+  }
+]

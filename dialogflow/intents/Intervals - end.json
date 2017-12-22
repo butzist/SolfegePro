@@ -1,0 +1,36 @@
+{
+  "id": "25c0b47a-2439-4e07-94e4-6aadf66aa3e2",
+  "name": "Intervals - end",
+  "auto": true,
+  "contexts": [
+    "intervals"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "intervals",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, exiting from interval training"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513959845,
+  "fallbackIntent": false,
+  "events": []
+}

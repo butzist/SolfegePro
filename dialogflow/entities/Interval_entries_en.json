@@ -1,0 +1,219 @@
+[
+  {
+    "value": "perfect unison",
+    "synonyms": [
+      "perfect unison",
+      "unison",
+      "prime",
+      "one",
+      "perfect one",
+      "same",
+      "same note",
+      "one note",
+      "zero"
+    ]
+  },
+  {
+    "value": "minor second",
+    "synonyms": [
+      "minor second",
+      "minor two",
+      "small second",
+      "small two"
+    ]
+  },
+  {
+    "value": "major second",
+    "synonyms": [
+      "major second",
+      "big second",
+      "big two",
+      "major two",
+      "large second",
+      "large second"
+    ]
+  },
+  {
+    "value": "minor third",
+    "synonyms": [
+      "minor third",
+      "small third",
+      "small three",
+      "minor three"
+    ]
+  },
+  {
+    "value": "major third",
+    "synonyms": [
+      "major third",
+      "big third",
+      "major three",
+      "big three"
+    ]
+  },
+  {
+    "value": "perfect fourth",
+    "synonyms": [
+      "perfect fourth",
+      "fourth",
+      "four",
+      "quart"
+    ]
+  },
+  {
+    "value": "tritone",
+    "synonyms": [
+      "tritone",
+      "augmented fourth",
+      "diminished fifth",
+      "augmented four",
+      "diminished five",
+      "half octave"
+    ]
+  },
+  {
+    "value": "perfect fifth",
+    "synonyms": [
+      "perfect fifth",
+      "fifth",
+      "five",
+      "quint"
+    ]
+  },
+  {
+    "value": "minor sixth",
+    "synonyms": [
+      "minor sixth",
+      "minor six",
+      "small sixth",
+      "small six"
+    ]
+  },
+  {
+    "value": "major sixth",
+    "synonyms": [
+      "major sixth",
+      "major six",
+      "big six",
+      "large six",
+      "major sixth",
+      "large sixth"
+    ]
+  },
+  {
+    "value": "minor seventh",
+    "synonyms": [
+      "minor seventh",
+      "small seventh",
+      "small seven",
+      "minor seven"
+    ]
+  },
+  {
+    "value": "major seventh",
+    "synonyms": [
+      "major seventh",
+      "big seventh",
+      "large seventh",
+      "major seven",
+      "big seven",
+      "large seven"
+    ]
+  },
+  {
+    "value": "perfect octave",
+    "synonyms": [
+      "perfect octave",
+      "octave",
+      "full octave"
+    ]
+  },
+  {
+    "value": "minor ninth",
+    "synonyms": [
+      "minor ninth",
+      "small ninth",
+      "minor nine",
+      "small nine"
+    ]
+  },
+  {
+    "value": "major ninth",
+    "synonyms": [
+      "major ninth",
+      "big ninth",
+      "large ninth",
+      "major nine",
+      "big nine",
+      "large nine"
+    ]
+  },
+  {
+    "value": "minor tenth",
+    "synonyms": [
+      "minor tenth",
+      "small tenth",
+      "minor ten",
+      "small ten"
+    ]
+  },
+  {
+    "value": "major tenth",
+    "synonyms": [
+      "major tenth",
+      "big tenth",
+      "large tenth",
+      "major ten",
+      "big ten",
+      "large ten"
+    ]
+  },
+  {
+    "value": "perfect eleventh",
+    "synonyms": [
+      "perfect eleventh"
+    ]
+  },
+  {
+    "value": "augmented eleventh",
+    "synonyms": [
+      "augmented eleventh"
+    ]
+  },
+  {
+    "value": "perfect twelfth",
+    "synonyms": [
+      "perfect twelfth"
+    ]
+  },
+  {
+    "value": "minor thirteenth",
+    "synonyms": [
+      "minor thirteenth"
+    ]
+  },
+  {
+    "value": "major thirteenth",
+    "synonyms": [
+      "major thirteenth"
+    ]
+  },
+  {
+    "value": "minor fourteenth",
+    "synonyms": [
+      "minor fourteenth"
+    ]
+  },
+  {
+    "value": "major fourteenth",
+    "synonyms": [
+      "major fourteenth"
+    ]
+  },
+  {
+    "value": "two octaves",
+    "synonyms": [
+      "two octaves"
+    ]
+  }
+]
