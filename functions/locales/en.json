@@ -1,0 +1,37 @@
+{
+  "interval": [
+    "perfect unison",
+    "minor second",
+    "major second",
+    "minor third",
+    "major third",
+    "perfect fourth",
+    "tritone",
+    "perfect fifth",
+    "minor sixth",
+    "major sixth",
+    "minor seventh",
+    "major seventh",
+    "perfect octave",
+    "minor ninth",
+    "major ninth",
+    "minor tenth",
+    "major tenth",
+    "perfect eleventh",
+    "augmented eleventh",
+    "perfect twelfth",
+    "minor thirteenth",
+    "major thirteenth",
+    "minor fourteenth",
+    "major fourteenth",
+    "two octaves"
+  ],
+  "intervals": {
+    "start": ["Ok, let's go!"],
+    "wrong": ["Not quite - try again"],
+    "correct": ["That's correct!"],
+    "next": ["Let's try another one."],
+    "reveal": ["The answer was:"],
+    "guess": ["What's your guess?"]
+  }
+}

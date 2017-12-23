@@ -1,0 +1,68 @@
+[
+  {
+    "id": "befabf6f-cbe8-4c90-8df6-c734a452e5ce",
+    "data": [
+      {
+        "text": "Ich habe das nicht gehört",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87692ef5-696a-4c6b-8750-5ad6e560600d",
+    "data": [
+      {
+        "text": "Noch mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "185ad47d-0f27-4c60-9541-992fb1d23eff",
+    "data": [
+      {
+        "text": "Wiederhole das Intervall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2dd8d7d5-45f4-47ac-9c3c-2956cbbb541e",
+    "data": [
+      {
+        "text": "Spiele das Intervall nochmals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "470d3065-fe9a-48a8-a582-e21333f71bd5",
+    "data": [
+      {
+        "text": "Noch einmal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7874d923-d61e-49bb-aec9-82fc1f5edd54",
+    "data": [
+      {
+        "text": "Wiederholen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

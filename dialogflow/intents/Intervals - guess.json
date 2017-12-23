@@ -25,6 +25,10 @@
           "value": "$guessed",
           "prompts": [
             {
+              "lang": "de",
+              "value": "Welches Intervall war das?"
+            },
+            {
               "lang": "en",
               "value": "I did not understand - please repeat"
             },

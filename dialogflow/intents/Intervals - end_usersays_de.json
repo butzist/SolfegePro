@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1017b13f-8d4e-490a-87d2-33521cf20e6d",
+    "data": [
+      {
+        "text": "Nichts mehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6709dd4f-d603-4fa0-bfee-794a0da2ac29",
+    "data": [
+      {
+        "text": "Ich habe genug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9770228-1bae-4a6f-81ca-1ed6b2d6fa0d",
+    "data": [
+      {
+        "text": "Genug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3005f01-3d33-4a69-8ad9-a1361554a9be",
+    "data": [
+      {
+        "text": "Kein weiteres Intervall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad48edc8-ea96-4ef8-99dc-4d5e58aeba22",
+    "data": [
+      {
+        "text": "Höre auf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

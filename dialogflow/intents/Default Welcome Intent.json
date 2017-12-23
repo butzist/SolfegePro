@@ -12,6 +12,11 @@
       "messages": [
         {
           "type": 0,
+          "lang": "de",
+          "speech": "Hallo, mit mir kannst du trainieren Tonintervalle zu unterscheiden. Sollen wir loslegen?"
+        },
+        {
+          "type": 0,
           "lang": "en",
           "speech": [
             "With this App, you can practice recognising musical intervals.",

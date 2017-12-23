@@ -39,7 +39,7 @@ const Notes = {
 
 const newInterval = app => {
     let response = app.buildRichResponse()
-        .addSimpleResponse(`<speak>${strings.general.START}</speak>`);
+        .addSimpleResponse(`<speak>${strings.getString("intervals.start")}</speak>`);
     askNewInterval(app, response);
 };
 
@@ -59,7 +59,7 @@ function askInterval(app, response) {
       <audio src="https://solfegepro.firebaseapp.com/piano/Piano.ff.${note2}.ogg"></audio>
     </media>
     <media begin="4s">
-      <speak>${strings.general.GUESS}</speak>
+      <speak>${strings.getString("intervals.guess")}</speak>
     </media>
   </par>
 </speak>`);
@@ -83,23 +83,23 @@ const repeatInterval = app => {
 };
 
 const revealInterval = app => {
-    let interval = strings.intervalName[app.data.interval];
+    let interval = strings.getInterval(app.data.interval);
     let response = app.buildRichResponse()
-        .addSimpleResponse(`<speak>${strings.general.REVEAL} ${interval}. ${strings.general.NEXT}</speak>`);
+        .addSimpleResponse(`<speak>${strings.getString("intervals.reveal")} ${interval}. ${strings.getString("intervals.next")}</speak>`);
     askNewInterval(app, response);
 };
 
 const guessInterval = app => {
     let guessed = app.getArgument(Parameters.GUESSED);
 
-    if (guessed === strings.intervalName[app.data.interval]) {
+    if (guessed === strings.getInterval(app.data.interval)) {
         let response = app.buildRichResponse()
-            .addSimpleResponse(`<speak>${strings.general.CORRECT} ${strings.general.NEXT}</speak>`);
+            .addSimpleResponse(`<speak>${strings.getString("intervals.correct")} ${strings.getString("intervals.next")}</speak>`);
 
         askNewInterval(app, response);
     } else {
         let response = app.buildRichResponse()
-            .addSimpleResponse(`<speak>${strings.general.WRONG}</speak>`);
+            .addSimpleResponse(`<speak>${strings.getString("intervals.wrong")}</speak>`);
 
         askInterval(app, response);
     }
@@ -122,6 +122,12 @@ const intervals = functions.https.onRequest((request, response) => {
     const app = new DialogflowApp({ request, response });
     console.log(`Request headers: ${JSON.stringify(request.headers)}`);
     console.log(`Request body: ${JSON.stringify(request.body)}`);
+
+    // app.getUserLocale() returns null...
+    let locale = request.body.lang;
+    console.log(`Locale: ${locale}`);
+    strings.setLocale(locale);
+
     app.handleRequest(actionMap);
 });
 

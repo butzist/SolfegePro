@@ -11,6 +11,16 @@
       "messages": [
         {
           "type": 0,
+          "lang": "de",
+          "speech": [
+            "Auf Wiedersehen",
+            "Nicht vergessen - Übung macht den Meister",
+            "Es war mir eine Freude",
+            "Den Quellcode zu dieser App findest du auf Github"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
           "speech": [
             "Have a good day",

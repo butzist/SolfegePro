@@ -1,0 +1,71 @@
+[
+  {
+    "id": "88c2a5ef-33c2-449e-ac88-6dd9626a5781",
+    "data": [
+      {
+        "text": "Was ",
+        "userDefined": false
+      },
+      {
+        "text": "für ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Intervall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0592368-cfd3-4134-8130-f40bc5ddc4c3",
+    "data": [
+      {
+        "text": "Welches",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Intervall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a46793a6-ee17-4851-aa25-e5432a45ad06",
+    "data": [
+      {
+        "text": "Löse es auf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9d9bb28-5b7e-4946-8017-b9c0d43f6901",
+    "data": [
+      {
+        "text": "Keine Ahnung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0897f4f-c8df-424a-a962-509c43caed14",
+    "data": [
+      {
+        "text": "Ich weiss es nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

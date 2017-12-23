@@ -1,0 +1,37 @@
+{
+  "interval": [
+    "Prime",
+    "Kleine Sekunde",
+    "Große Sekunde",
+    "Kleine Terz",
+    "Große Terz",
+    "Reine Quarte",
+    "Tritonus",
+    "Reine Quinte",
+    "Kleine Sexte",
+    "Große Sexte",
+    "Kleine Septime",
+    "Große Septime",
+    "Reine Oktave",
+    "Kleine None",
+    "Große None",
+    "Kleine Dezime",
+    "Große Dezime",
+    "Reine Undezime",
+    "Übermäßige Undezime",
+    "Reine Dodezime",
+    "Kleine Tridezime",
+    "Große Tridezime",
+    "Kleine Quatdezime",
+    "Große Quatdezime",
+    "Zwei Oktaven"
+  ],
+ "intervals": {
+    "start": ["Ok, log geht's!"],
+    "wrong": ["Nicht so ganz - versuche es noch einmal"],
+    "correct": ["Korrekt!"],
+    "next": ["Versuchen wir ein anderes Intervall."],
+    "reveal": ["Die Antwort waere gewesen:"],
+    "guess": ["Welches Intervall war das?"]
+  }
+}

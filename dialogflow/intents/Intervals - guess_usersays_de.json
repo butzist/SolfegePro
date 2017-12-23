@@ -1,0 +1,113 @@
+[
+  {
+    "id": "44ec9778-ca85-45bd-8784-251d8f494459",
+    "data": [
+      {
+        "text": "Halbton",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b00ae5d7-8f3e-4924-8224-81b05994cedf",
+    "data": [
+      {
+        "text": "Prime",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35795ec2-2c90-4ed8-8713-87fe71f0eeec",
+    "data": [
+      {
+        "text": "Vielleicht ",
+        "userDefined": false
+      },
+      {
+        "text": "Oktave",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58777a99-8c3e-488c-836f-1c119fafa5e4",
+    "data": [
+      {
+        "text": "Eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Quinte",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc97a639-0dc2-4b34-9878-943e8e3fd457",
+    "data": [
+      {
+        "text": "Ich glaube das war ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Tritonus",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "036697ac-a37f-4ee5-8346-d4e41be777cc",
+    "data": [
+      {
+        "text": "Das ist eine ",
+        "userDefined": false
+      },
+      {
+        "text": "reine Quarte",
+        "alias": "guessed",
+        "meta": "@Interval",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

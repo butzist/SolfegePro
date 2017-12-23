@@ -1,0 +1,97 @@
+[
+  {
+    "id": "93aa874f-9669-4b4c-ace6-73c6a23e3536",
+    "data": [
+      {
+        "text": "Start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61d47ed4-ab70-470b-a87d-70aa150bee9e",
+    "data": [
+      {
+        "text": "Ja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0132bdcd-c33c-461c-bfd6-f0a63b125a76",
+    "data": [
+      {
+        "text": "Fangen wir an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1a16e34-00ae-43b9-bca2-f73c608e24f4",
+    "data": [
+      {
+        "text": "Legen wir los",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a433e6a-9cb1-403d-a2ae-0257bb27dcf3",
+    "data": [
+      {
+        "text": "Spiele mir ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Intervall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74033c4d-20af-4dd3-956e-f102e3c072d4",
+    "data": [
+      {
+        "text": "Ich möchte Intervalle trainieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab6b1e36-8058-43e0-b289-c312ad64ac0d",
+    "data": [
+      {
+        "text": "Lass uns ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " paar Intervalle lernen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

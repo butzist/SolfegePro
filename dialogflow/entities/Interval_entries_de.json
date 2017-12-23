@@ -1,0 +1,196 @@
+[
+  {
+    "value": "Prime",
+    "synonyms": [
+      "Prime",
+      "Gleicher Ton"
+    ]
+  },
+  {
+    "value": "Kleine Sekunde",
+    "synonyms": [
+      "Kleine Sekunde",
+      "Halbton",
+      "Kleine Zwei"
+    ]
+  },
+  {
+    "value": "Große Sekunde",
+    "synonyms": [
+      "Große Sekunde",
+      "Ganzton",
+      "Große Zwei"
+    ]
+  },
+  {
+    "value": "Kleine Terz",
+    "synonyms": [
+      "Kleine Terz",
+      "Kleine Drei"
+    ]
+  },
+  {
+    "value": "Große Terz",
+    "synonyms": [
+      "Große Terz",
+      "Große Drei"
+    ]
+  },
+  {
+    "value": "Reine Quarte",
+    "synonyms": [
+      "Reine Quarte",
+      "Quarte",
+      "Vier",
+      "Reine Vier"
+    ]
+  },
+  {
+    "value": "Tritonus",
+    "synonyms": [
+      "Tritonus",
+      "Übermäßige Quarte",
+      "Verminderte Quinte",
+      "Übermäßige Vier",
+      "Verminderte Fünf"
+    ]
+  },
+  {
+    "value": "Reine Quinte",
+    "synonyms": [
+      "Reine Quinte",
+      "Quinte",
+      "Fünf",
+      "Reine Fünf"
+    ]
+  },
+  {
+    "value": "Kleine Sexte",
+    "synonyms": [
+      "Kleine Sexte",
+      "Kleine Sechs"
+    ]
+  },
+  {
+    "value": "Große Sexte",
+    "synonyms": [
+      "Große Sexte",
+      "Große Sechs"
+    ]
+  },
+  {
+    "value": "Kleine Septime",
+    "synonyms": [
+      "Kleine Septime",
+      "Kleine Sept",
+      "Kleine Sieben"
+    ]
+  },
+  {
+    "value": "Große Septime",
+    "synonyms": [
+      "Große Septime",
+      "Große Sept",
+      "Große Sieben"
+    ]
+  },
+  {
+    "value": "Reine Oktave",
+    "synonyms": [
+      "Reine Oktave",
+      "Oktave",
+      "Reine Acht",
+      "Acht"
+    ]
+  },
+  {
+    "value": "Kleine None",
+    "synonyms": [
+      "Kleine None",
+      "Kleine Neun"
+    ]
+  },
+  {
+    "value": "Große None",
+    "synonyms": [
+      "Große None",
+      "Große Neun"
+    ]
+  },
+  {
+    "value": "Kleine Dezime",
+    "synonyms": [
+      "Kleine Dezime",
+      "Kleine Zehn"
+    ]
+  },
+  {
+    "value": "Große Dezime",
+    "synonyms": [
+      "Große Dezime",
+      "Große Zehn"
+    ]
+  },
+  {
+    "value": "Reine Undezime",
+    "synonyms": [
+      "Reine Undezime",
+      "Reine Elf",
+      "Elf",
+      "Reine Elf",
+      "Undezime"
+    ]
+  },
+  {
+    "value": "Übermäßige Undezime",
+    "synonyms": [
+      "Übermäßige Undezime",
+      "Übermäßige Elf",
+      "Verminderte Dodezime",
+      "Verminderte Zwölf"
+    ]
+  },
+  {
+    "value": "Reine Dodezime",
+    "synonyms": [
+      "Reine Dodezime",
+      "Reine Zwölf",
+      "Zwölf",
+      "Dodezime"
+    ]
+  },
+  {
+    "value": "Kleine Tridezime",
+    "synonyms": [
+      "Kleine Tridezime",
+      "Kleine Dreizehn"
+    ]
+  },
+  {
+    "value": "Große Tridezime",
+    "synonyms": [
+      "Große Tridezime",
+      "Große Dreizehn"
+    ]
+  },
+  {
+    "value": "Kleine Quatdezime",
+    "synonyms": [
+      "Kleine Quatdezime",
+      "Kleine Vierzehn"
+    ]
+  },
+  {
+    "value": "Große Quatdezime",
+    "synonyms": [
+      "Große Quatdezime",
+      "Große Vierzehn"
+    ]
+  },
+  {
+    "value": "Zwei Oktaven",
+    "synonyms": [
+      "Zwei Oktaven"
+    ]
+  }
+]

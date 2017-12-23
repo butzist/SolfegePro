@@ -9,61 +9,16 @@
 
 // eslint-disable-next-line quotes
 const deepFreeze = require('deep-freeze');
+const i18n = require("i18n");
 
-const intervalName = [
-    "perfect unison",
-    "minor second",
-    "major second",
-    "minor third",
-    "major third",
-    "perfect fourth",
-    "tritone",
-    "perfect fifth",
-    "minor sixth",
-    "major sixth",
-    "minor seventh",
-    "major seventh",
-    "perfect octave",
-    "minor ninth",
-    "major ninth",
-    "minor tenth",
-    "major tenth",
-    "perfect eleventh",
-    "augmented eleventh",
-    "perfect twelfth",
-    "minor thirteenth",
-    "major thirteenth",
-    "minor fourteenth",
-    "major fourteenth",
-    "two octaves",
-];
+i18n.configure({
+    "directory": __dirname + "/locales",
+    "objectNotation": true
+});
 
-const semitonesOf = {
-    "perfect unison": 0,
-    "minor second": 1,
-    "major second": 2,
-    "minor third": 3,
-    "major third": 4,
-    "perfect fourth": 5,
-    "tritone": 6,
-    "perfect fifth": 7,
-    "minor sixth": 8,
-    "major sixth": 9,
-    "minor seventh": 10,
-    "major seventh": 11,
-    "perfect octave": 12,
-    "minor ninth": 13,
-    "major ninth": 14,
-    "minor tenth": 15,
-    "major tenth": 16,
-    "perfect eleventh": 17,
-    "augmented eleventh": 18,
-    "perfect twelfth": 19,
-    "minor thirteenth": 20,
-    "major thirteenth": 21,
-    "minor fourteenth": 22,
-    "major fourteenth": 23,
-    "two octaves": 24,
+/** @param {string} locale */
+const setLocale = locale => {
+    i18n.setLocale(locale);
 };
 
 const notes = [
@@ -78,19 +33,20 @@ const notes = [
     "C8",
 ];
 
-const general = {
-    START: "Ok, let's go!",
-    WRONG: "Not quite - try again",
-    CORRECT: "That's correct!",
-    NEXT: "Let's try another one.",
-    REVEAL: "The answer was:",
-    GUESS: "What's your guess?",
-}
+const getInterval = semitones => {
+    let intervals = i18n.__("interval");
+    return intervals[semitones]
+};
+
+const getString = identifier => {
+    let variants = i18n.__(identifier);
+    return variants[Math.floor(Math.random() * variants.length)]
+};
 
 // Use deepFreeze to make the constant objects immutable so they are not unintentionally modified
 module.exports = deepFreeze({
-    intervalName,
-    semitonesOf,
+    getInterval,
     notes,
-    general,
+    getString,
+    setLocale
 });
