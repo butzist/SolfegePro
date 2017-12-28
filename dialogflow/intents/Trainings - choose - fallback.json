@@ -1,19 +1,19 @@
 {
-  "id": "25c0b47a-2439-4e07-94e4-6aadf66aa3e2",
-  "name": "Intervals - end",
-  "auto": true,
+  "id": "34b5a247-c56d-495d-940c-38af6083bcd5",
+  "name": "Trainings - choose - fallback",
+  "auto": false,
   "contexts": [
-    "intervals"
+    "Trainings-choose-followup",
+    "choose_training"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "",
       "affectedContexts": [
         {
-          "name": "intervals",
+          "name": "Trainings-choose-followup",
           "parameters": {},
-          "lifespan": 0
+          "lifespan": 5
         },
         {
           "name": "choose_training",
@@ -26,12 +26,19 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Ok, exiting from interval training. There are not other exercises available at the moment. Make sure to check out this application on Github."
+          "speech": [
+            "Do you want to practice musical intervals?",
+            "Which training would you like to start?"
+          ]
         },
         {
           "type": 0,
           "lang": "de",
-          "speech": "Ok, verlasse Gehörtraining. Im Moment gibt es keine anderen Übungen. Den Quellcode zu dieser App findest du auf Github"
+          "speech": [
+            "Willst Du musikalische Intervalle üben?",
+            "Welches Training soll ich starten?",
+            "Bitte wähle ein Training aus."
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -41,7 +48,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1513959845,
-  "fallbackIntent": false,
+  "lastUpdate": 1514477715,
+  "fallbackIntent": true,
   "events": []
 }

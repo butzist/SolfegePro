@@ -1,9 +1,12 @@
 {
-  "id": "25c0b47a-2439-4e07-94e4-6aadf66aa3e2",
-  "name": "Intervals - end",
+  "id": "b1fb355e-9825-4dec-9e9e-dcab701f5dbe",
+  "parentId": "ad09a138-3469-4fa6-a09d-5961c3b66561",
+  "rootParentId": "ad09a138-3469-4fa6-a09d-5961c3b66561",
+  "name": "Trainings - choose - no",
   "auto": true,
   "contexts": [
-    "intervals"
+    "choose_training",
+    "Trainings-choose-followup"
   ],
   "responses": [
     {
@@ -11,14 +14,9 @@
       "action": "",
       "affectedContexts": [
         {
-          "name": "intervals",
-          "parameters": {},
-          "lifespan": 0
-        },
-        {
           "name": "choose_training",
           "parameters": {},
-          "lifespan": 5
+          "lifespan": 0
         }
       ],
       "parameters": [],
@@ -26,12 +24,18 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Ok, exiting from interval training. There are not other exercises available at the moment. Make sure to check out this application on Github."
+          "speech": [
+            "I am sorry",
+            "As you wish"
+          ]
         },
         {
           "type": 0,
           "lang": "de",
-          "speech": "Ok, verlasse Gehörtraining. Im Moment gibt es keine anderen Übungen. Den Quellcode zu dieser App findest du auf Github"
+          "speech": [
+            "Dann eben nicht",
+            "Das tut mir leid"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -41,7 +45,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1513959845,
+  "lastUpdate": 1514480095473,
   "fallbackIntent": false,
   "events": []
 }

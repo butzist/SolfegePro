@@ -1,0 +1,52 @@
+{
+  "id": "586f35a4-6e9a-4841-bc9b-3fd5681257ac",
+  "name": "Intervals - fallback",
+  "auto": false,
+  "contexts": [
+    "intervals"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "intervals",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please reply with an interval name",
+            "Say an interval name or exit the training",
+            "Which interval was that? I can repeat it for you.",
+            "Please repeat the interval name",
+            "I did not understand your answer. Say something like \"Major Third\" or \"Diminished Fifth\"."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Bitte wiederhole den Intervallnamen",
+            "Sage einen Intervallnamen oder beende das Training",
+            "Welches Intervall war das? Ich kann es noch einmal wiederholen.",
+            "Ich habe das Intervall nicht verstanden. Sage Sowas wie \"Grosse Terz\" oder \"Übermäßige Quarte\"."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514469455,
+  "fallbackIntent": true,
+  "events": []
+}

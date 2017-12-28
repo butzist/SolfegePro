@@ -1,6 +1,17 @@
 [
   {
-    "id": "17db12ec-0e61-47d5-9034-f7a785b80fbf",
+    "id": "560bcec2-07fc-460d-ac3c-2a12c4bff283",
+    "data": [
+      {
+        "text": "Which interval is that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98c9f50f-0279-459a-bfdd-5d24a48cf985",
     "data": [
       {
         "text": "What interval was this?",
@@ -12,7 +23,7 @@
     "updated": 1513954804
   },
   {
-    "id": "6d0c2c43-81fd-47cf-aeef-dcba62dc2345",
+    "id": "fb745bba-376b-4975-b737-b4f8b45b12e4",
     "data": [
       {
         "text": "Please reveal",
@@ -24,7 +35,7 @@
     "updated": 1513954804
   },
   {
-    "id": "04f0c8ca-5176-4692-9d8d-450420d9dfac",
+    "id": "3768cf62-8eb0-4fa6-a271-dc190ee7d58c",
     "data": [
       {
         "text": "Tell me",
@@ -36,7 +47,7 @@
     "updated": 1513954804
   },
   {
-    "id": "67cc205d-5339-44d4-9881-d6e8a83a823c",
+    "id": "f79abe98-6fa6-4881-a2bc-cfd93c8a781b",
     "data": [
       {
         "text": "I don\u0027t know",

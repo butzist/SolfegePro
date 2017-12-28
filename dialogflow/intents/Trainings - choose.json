@@ -1,20 +1,26 @@
 {
   "id": "ad09a138-3469-4fa6-a09d-5961c3b66561",
-  "name": "Default Welcome Intent",
+  "name": "Trainings - choose",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "action": "",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "choose_training",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Trainings-choose-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [],
       "messages": [
-        {
-          "type": 0,
-          "lang": "de",
-          "speech": "Hallo, mit mir kannst du trainieren Tonintervalle zu unterscheiden. Sollen wir loslegen?"
-        },
         {
           "type": 0,
           "lang": "en",
@@ -22,19 +28,27 @@
             "With this App, you can practice recognising musical intervals.",
             "Would you like to practice musical intervals?"
           ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Hallo, mit mir kannst du trainieren Tonintervalle zu unterscheiden. Sollen wir loslegen?"
         }
       ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 250000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [
     {
       "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
     }
   ]
 }

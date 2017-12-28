@@ -1,39 +1,6 @@
 [
   {
-    "id": "dc97123b-0621-46e3-8343-4cf88548b5d6",
-    "data": [
-      {
-        "text": "Start",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "68d60a36-098f-4c83-b2d7-179dc152853d",
-    "data": [
-      {
-        "text": "Yes",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "81124eaf-d012-448d-a683-1ad084af247f",
-    "data": [
-      {
-        "text": "Let\u0027s go",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "c43a6840-d548-4eca-bc72-36efc02268ee",
+    "id": "72054f1e-4ff6-49a8-a425-a763767080d9",
     "data": [
       {
         "text": "I want to guess note intervals",
@@ -45,7 +12,7 @@
     "updated": 1513868480
   },
   {
-    "id": "83fc78b9-277d-43c7-b69a-25be4b85ae00",
+    "id": "1f1fe812-dd4d-44e2-b43d-22dbcfcecbc8",
     "data": [
       {
         "text": "Play me an interval",
@@ -57,7 +24,7 @@
     "updated": 1513868480
   },
   {
-    "id": "a56230f6-35ac-4e0c-86a9-52e85212b081",
+    "id": "60fdf53a-d2a1-432d-8553-57f37021a87f",
     "data": [
       {
         "text": "Intervals, please",
@@ -69,7 +36,7 @@
     "updated": 1513868480
   },
   {
-    "id": "6889a9f4-211b-467b-9c1e-49f760c13ab8",
+    "id": "0f277196-2e47-4f1d-adf0-731687484903",
     "data": [
       {
         "text": "Let\u0027s practice intervals",

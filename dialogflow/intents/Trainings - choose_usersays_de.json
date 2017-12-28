@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1a3da936-0fa5-429a-951d-0b19ce9c85b0",
+    "data": [
+      {
+        "text": "Wähle Übung aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e718533e-067b-4073-b2c5-e8b52a3dae7a",
+    "data": [
+      {
+        "text": "Welche Übungen kann ich mit Dir machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a04bcb63-cd7f-44c9-a812-e9bff7d14bae",
+    "data": [
+      {
+        "text": "Was kannst Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

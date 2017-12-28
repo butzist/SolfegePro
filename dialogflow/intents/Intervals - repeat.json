@@ -1,6 +1,6 @@
 {
   "id": "d85cc63a-e207-42ae-9f65-41438f8e5042",
-  "name": "Interval - repeat",
+  "name": "Intervals - repeat",
   "auto": true,
   "contexts": [
     "intervals"
@@ -22,7 +22,7 @@
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 750000,
   "webhookUsed": true,
   "webhookForSlotFilling": true,
   "lastUpdate": 1513869219,

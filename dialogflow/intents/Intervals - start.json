@@ -12,6 +12,11 @@
           "name": "intervals",
           "parameters": {},
           "lifespan": 5
+        },
+        {
+          "name": "choose_training",
+          "parameters": {},
+          "lifespan": 0
         }
       ],
       "parameters": [],

@@ -25,10 +25,6 @@
           "value": "$guessed",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Welches Intervall war das?"
-            },
-            {
               "lang": "en",
               "value": "I did not understand - please repeat"
             },
@@ -39,6 +35,10 @@
             {
               "lang": "en",
               "value": "Guess an interval"
+            },
+            {
+              "lang": "de",
+              "value": "Welches Intervall war das?"
             }
           ],
           "isList": false
@@ -49,7 +49,7 @@
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 1000000,
   "webhookUsed": true,
   "webhookForSlotFilling": true,
   "lastUpdate": 1513868737,

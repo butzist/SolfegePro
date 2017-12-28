@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a954743e-ae50-4a3e-b29e-695d4c615f18",
+    "data": [
+      {
+        "text": "What else can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40d9f40c-f838-4cb1-b8ee-7663b9a1b27c",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a142987-dcfe-4c0a-bdd8-191496cacff6",
+    "data": [
+      {
+        "text": "What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53a34d92-2a54-4687-91a8-543abc6ec375",
+    "data": [
+      {
+        "text": "Select training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

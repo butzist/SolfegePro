@@ -26,7 +26,8 @@
             "Have a good day",
             "Cheers",
             "Hope you liked it",
-            "Bye, please check out the project on Github"
+            "Bye",
+            "Please check out the project source code on Github"
           ]
         }
       ],
@@ -34,7 +35,7 @@
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 250000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "lastUpdate": 1513960030,

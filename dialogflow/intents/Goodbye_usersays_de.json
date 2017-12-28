@@ -1,9 +1,9 @@
 [
   {
-    "id": "befabf6f-cbe8-4c90-8df6-c734a452e5ce",
+    "id": "c731807e-4093-4817-bd34-46652c389f33",
     "data": [
       {
-        "text": "Ich habe das nicht gehört",
+        "text": "Ende",
         "userDefined": false
       }
     ],
@@ -11,10 +11,10 @@
     "count": 0
   },
   {
-    "id": "87692ef5-696a-4c6b-8750-5ad6e560600d",
+    "id": "26c9a31d-fe65-4bb0-acfa-05a4e7de0f60",
     "data": [
       {
-        "text": "Noch mal",
+        "text": "Ciao",
         "userDefined": false
       }
     ],
@@ -22,10 +22,10 @@
     "count": 0
   },
   {
-    "id": "185ad47d-0f27-4c60-9541-992fb1d23eff",
+    "id": "5eca34ca-672e-4edb-867b-db7ae191321e",
     "data": [
       {
-        "text": "Wiederhole das Intervall",
+        "text": "Applikation beenden",
         "userDefined": false
       }
     ],
@@ -33,10 +33,15 @@
     "count": 0
   },
   {
-    "id": "2dd8d7d5-45f4-47ac-9c3c-2956cbbb541e",
+    "id": "f493b634-79e8-46a9-8d8b-ab55baf72661",
     "data": [
       {
-        "text": "Spiele das Intervall nochmals",
+        "text": "Auf",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Wiedersehen",
         "userDefined": false
       }
     ],
@@ -44,10 +49,10 @@
     "count": 0
   },
   {
-    "id": "470d3065-fe9a-48a8-a582-e21333f71bd5",
+    "id": "27565a61-5ef7-485a-bd45-39ce36155fff",
     "data": [
       {
-        "text": "Noch einmal",
+        "text": "Tschüss",
         "userDefined": false
       }
     ],
@@ -55,10 +60,10 @@
     "count": 0
   },
   {
-    "id": "7874d923-d61e-49bb-aec9-82fc1f5edd54",
+    "id": "61fbd255-8023-41c3-a71f-7a710d833652",
     "data": [
       {
-        "text": "Wiederholen",
+        "text": "Beenden",
         "userDefined": false
       }
     ],

@@ -1,6 +1,99 @@
 [
   {
-    "id": "1017b13f-8d4e-490a-87d2-33521cf20e6d",
+    "id": "06782a61-1dc5-4a69-a808-57582704e4ed",
+    "data": [
+      {
+        "text": "Genug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef1d7695-b327-4191-888b-1de549d85baf",
+    "data": [
+      {
+        "text": "hör auf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3a98ffe-a890-44c2-8b0e-1bce3ab58f5e",
+    "data": [
+      {
+        "text": "hören wir auf mit dem training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bd491b6-9b2f-405f-ac5d-a76c750b17e6",
+    "data": [
+      {
+        "text": "beende das training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aabdc17a-5850-4613-b579-1b542a91c9ee",
+    "data": [
+      {
+        "text": "Übung beenden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad2009e4-1c61-41d4-91ac-77581e602505",
+    "data": [
+      {
+        "text": "Lass uns eine andere Übung machen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f787766-97b6-4ac9-8727-e9c252086789",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6542a950-6f3e-4a88-ad21-507a3c4d874f",
+    "data": [
+      {
+        "text": "Training beenden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fce733b3-53e3-4c26-a9e3-9c622bd28bc1",
     "data": [
       {
         "text": "Nichts mehr",
@@ -11,7 +104,7 @@
     "count": 0
   },
   {
-    "id": "6709dd4f-d603-4fa0-bfee-794a0da2ac29",
+    "id": "a3852a0c-972d-416a-8fe8-be5e7f72ddc8",
     "data": [
       {
         "text": "Ich habe genug",
@@ -22,7 +115,7 @@
     "count": 0
   },
   {
-    "id": "d9770228-1bae-4a6f-81ca-1ed6b2d6fa0d",
+    "id": "f171b2dd-3a96-40d4-b9d8-4aa38c828442",
     "data": [
       {
         "text": "Genug",
@@ -33,7 +126,7 @@
     "count": 0
   },
   {
-    "id": "a3005f01-3d33-4a69-8ad9-a1361554a9be",
+    "id": "de304a6b-82bf-4e59-a47c-7db6f3b16f9b",
     "data": [
       {
         "text": "Kein weiteres Intervall",
@@ -44,7 +137,7 @@
     "count": 0
   },
   {
-    "id": "ad48edc8-ea96-4ef8-99dc-4d5e58aeba22",
+    "id": "0706b206-b899-43a0-8b4c-bbca04dfa0f5",
     "data": [
       {
         "text": "Höre auf",

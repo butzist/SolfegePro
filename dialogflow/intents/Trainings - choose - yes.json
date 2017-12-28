@@ -1,0 +1,50 @@
+{
+  "id": "195817e6-66c0-4243-9565-4b94c5fdd264",
+  "parentId": "ad09a138-3469-4fa6-a09d-5961c3b66561",
+  "rootParentId": "ad09a138-3469-4fa6-a09d-5961c3b66561",
+  "name": "Trainings - choose - yes",
+  "auto": true,
+  "contexts": [
+    "choose_training",
+    "Trainings-choose-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intervals",
+      "affectedContexts": [
+        {
+          "name": "choose_training",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "Trainings-choose-followup",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1514480388002,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -27,11 +27,11 @@
     "Zwei Oktaven"
   ],
  "intervals": {
-    "start": ["Ok, log geht's!"],
-    "wrong": ["Nicht so ganz - versuche es noch einmal"],
-    "correct": ["Korrekt!"],
-    "next": ["Versuchen wir ein anderes Intervall."],
-    "reveal": ["Die Antwort waere gewesen:"],
-    "guess": ["Welches Intervall war das?"]
+    "start": ["Ok, los geht's!", "Ausgezeichnet, legen wir los!"],
+    "wrong": ["Nicht so ganz - versuche es noch einmal", "Leider nein"],
+    "correct": ["Korrekt!", "Super!", "Genau!"],
+    "next": ["Versuchen wir ein anderes Intervall.", "Noch eins.", "Machen wir weiter."],
+    "reveal": ["Die Antwort waere gewesen:", "Das war eine "],
+    "guess": ["Welches Intervall war das?", "Was glaubst Du, was das war?"]
   }
 }

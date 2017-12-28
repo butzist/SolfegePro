@@ -1,6 +1,50 @@
 [
   {
-    "id": "a397cfb9-480e-4ce4-ab49-43e9beb84dd1",
+    "id": "59d92922-a682-4861-8357-93fee3cc42ec",
+    "data": [
+      {
+        "text": "Let me do a different exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9184b3f3-4406-429d-b65b-ecba58d533d6",
+    "data": [
+      {
+        "text": "Enough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69d6ea6c-0265-40fe-83f2-7b236cfb922f",
+    "data": [
+      {
+        "text": "End training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba41225d-41f3-4aa0-8ed0-abd0b9f3a302",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da7d9743-1836-450a-9972-57e1e39b2d53",
     "data": [
       {
         "text": "Not any more",
@@ -11,7 +55,7 @@
     "count": 0
   },
   {
-    "id": "27831a72-167c-4fe0-980d-687b18e21ae8",
+    "id": "a37ac254-d14f-430d-8eeb-0a67be83355d",
     "data": [
       {
         "text": "I don\u0027t want to",
@@ -23,7 +67,7 @@
     "updated": 1513959845
   },
   {
-    "id": "e6a72cf7-59e3-42f7-80f5-7ed8351bccd3",
+    "id": "d32f1d93-c15b-4672-83ac-5a2154625ff7",
     "data": [
       {
         "text": "I want to do something else",
@@ -35,7 +79,7 @@
     "updated": 1513959845
   },
   {
-    "id": "83e4d770-baae-4b23-b090-a44f90a977ce",
+    "id": "63afa6fa-532c-46ce-9f2e-37d9b55a8e7f",
     "data": [
       {
         "text": "Cancel",
@@ -47,7 +91,7 @@
     "updated": 1513959845
   },
   {
-    "id": "b66b747c-8d94-473a-a094-21cbf013a742",
+    "id": "cf592770-0916-4a5b-8712-8f09e1b8238a",
     "data": [
       {
         "text": "Let\u0027s do something different",
